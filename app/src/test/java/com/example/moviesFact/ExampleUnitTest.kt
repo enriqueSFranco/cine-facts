@@ -1,4 +1,4 @@
-package com.example.primeros_pasos
+package com.example.moviesFact
 
 import org.junit.Test
 

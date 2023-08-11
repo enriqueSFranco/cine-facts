@@ -1,4 +1,4 @@
-package com.example.primeros_pasos.ui.theme
+package com.example.moviesFact.ui.theme
 
 import android.app.Activity
 import android.os.Build
