@@ -1,4 +1,4 @@
-package com.example.primeros_pasos.ui.theme
+package com.example.moviesFact.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.primeros_pasos.ui.theme
+package com.example.moviesFact.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
